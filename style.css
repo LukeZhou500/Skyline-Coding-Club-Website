@@ -25,11 +25,21 @@
 }
 .acsltitle {
     margin: auto;
-    max-width: 50px;
+    display: grid;
+    place-items: center;
+    max-width: 1000px;
+}
+.hackathontitle {
+    margin: auto;
+    display: grid;
+    place-items: center;
+    max-width: 1000px;
 }
 .usacotitle {
     margin: auto;
-    max-width: 50px;
+    display: grid;
+    place-items: center;
+    max-width: 1000px;
 }
 .menu {
     display: flex;
@@ -39,6 +49,7 @@
 
 .links {
     display: flex;
+    gap: 20px;
 }
 
 .top-link {
