@@ -18,6 +18,11 @@
     margin: auto;
     max-width: 1000px;
 }
+.clublogo {
+    margin-left: auto;
+    display: block;
+    width: 100px;
+}
 .acsltitle {
     margin: auto;
     max-width: 50px;
@@ -37,14 +42,17 @@
 }
 
 .top-link {
-    margin-left: 10px;
-    margin-right: 10px;
+    display:block;
+    margin: auto;
+    max-width: 1000px;
 }
 
 .title {
     text-decoration: none;
     color: RGB(248, 248, 242);
-    margin-left: 10px;
+    margin: auto;
+    max-width: 1000px;
+    font-size: 48px;
 }
 
 img {
