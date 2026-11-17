@@ -8,9 +8,46 @@
     margin: auto;
     max-width: 1000px;
 }
+.GroupPhoto {
+    height: 500px;
+    object-fit: cover;
+    margin: auto;
+    max-width: 1000px;
+}
+.acsltitle {
+    margin: auto;
+    max-width: 50px;
+}
+.usacotitle {
+    margin: auto;
+    max-width: 50px;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.links {
+    display: flex;
+}
+
+.top-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.title {
+    text-decoration: none;
+    color: RGB(248, 248, 242);
+    margin-left: 10px;
+}
 
 img {
     width: 100%;
     height: auto;
+}
+
+a {
+    color: RGB(139, 233, 253);
 }
