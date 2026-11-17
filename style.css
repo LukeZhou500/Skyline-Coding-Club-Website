@@ -1,0 +1,16 @@
+* {
+    background-color: RGB(40, 42, 54);
+    color: RGB(248, 248, 242);
+    font-family: "JetBrains Mono", monospace;
+}
+
+.centered {
+    margin: auto;
+    max-width: 1000px;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
