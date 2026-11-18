@@ -13,7 +13,7 @@
     object-fit: cover;
     margin: auto;
     max-width: 1000px;
-}
+} 
 .UsacoPhoto {
     margin: auto;
     max-width: 1000px;
@@ -46,6 +46,15 @@
     justify-content: space-between;
     align-items: center;
 }
+.MiniHackathonMenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+iframe {
+  color-scheme: light;
+  background-color: white;
+}   
 
 .links {
     display: flex;
@@ -74,3 +83,6 @@ img {
 a {
     color: RGB(139, 233, 253);
 }
+html {
+  scroll-behavior: smooth;
+}   
