@@ -35,6 +35,14 @@
     place-items: center;
     max-width: 1000px;
 }
+.DBTshowcase {
+    display: flex;
+    margin: auto;
+}
+.Caption{
+    width: 500px;
+    margin: 0 auto;
+}
 .usacotitle {
     margin: auto;
     display: grid;
