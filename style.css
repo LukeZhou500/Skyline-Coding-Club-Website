@@ -43,6 +43,22 @@
     width: 500px;
     margin: 0 auto;
 }
+.USACOguide {
+    display: flex;
+    margin: auto;
+}
+.USACOide {
+    display: flex;
+    margin: auto;
+}
+.Codeforces {
+    display: flex;
+    margin: auto;
+}
+.CaptionUSACO {
+    width: 360px;
+    margin: 0 auto;
+}
 .usacotitle {
     margin: auto;
     display: grid;
@@ -58,6 +74,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: rgb(40, 42, 54);
+}
+#WebsiteHackathon2026,
+#ChromeExtension2026,
+#Placeholder {
+    scroll-margin-top: 90px;
 }
 iframe {
   color-scheme: light;
